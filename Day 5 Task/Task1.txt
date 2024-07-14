@@ -1,0 +1,53 @@
+1.  Why do we use functions in programming languages?
+
+A method is a block of code which only runs when it is called.
+You can pass data, known as parameters, into a method.
+Methods are used to perform certain actions, and they are also known as functions.
+ To reuse code: define the code once, and use it many times.
+
+2.  Diff. between parameters and arguments?
+Parameters: Information can be passed to methods as parameter. Parameters act as variables inside the method.
+Arguments: When a parameter is passed to the method, it is called an argument.
+
+3.  What is function overloading?
+With method overloading, multiple methods can have the same name with different parameters:
+int MyMethod(int x)
+float MyMethod(float x)
+double MyMethod(double x, double y)
+
+4.  How to implement function overloading in c#?
+Function overloading is implemented by creating multiple methods with the same name but different parameter lists within the same class.
+These parameter lists can differ in terms of the number of parameters, the types of parameters, or both.
+
+namespace MyApplication
+{
+  class Program
+  {
+    static int PlusMethod(int x, int y)
+    {
+      return x + y;
+    }
+
+    static double PlusMethod(double x, double y)
+    {
+      return x + y;
+    }
+
+    static void Main(string[] args)
+    {
+     
+      Console.WriteLine(PlusMethod(8, 5));
+      Console.WriteLine(PlusMethod(4.3, 6.26));
+    }  
+  }
+}
+
+
+4. When do we use  ref and out keywords in functions in c#?
+
+ref: Used when a parameter should be passed by reference and must be initialized before the method call. The method can read and modify its value.
+out: Used when a method needs to return multiple values. The parameter does not need to be initialized before the method call, but the method must assign a value to it before returning.
+
+
+5. Can we return multiple values from a function?
+Returning Multiple Values: You can use out parameters, tuples, or custom classes/structs to return multiple values from a function.

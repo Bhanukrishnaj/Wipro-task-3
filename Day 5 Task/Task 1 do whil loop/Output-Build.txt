@@ -1,0 +1,5 @@
+﻿Build started at 12:14 PM...
+1>------ Build started: Project: Task 1 do whil loop, Configuration: Debug Any CPU ------
+1>  Task 1 do whil loop -> C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\bin\Debug\Task 1 do whil loop.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:14 PM and took 08.113 seconds ==========

@@ -1,0 +1,7 @@
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\bin\Debug\Task 1 do whil loop.exe.config
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\bin\Debug\Task 1 do whil loop.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\bin\Debug\Task 1 do whil loop.pdb
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\obj\Debug\Task 1 do whil loop.csproj.AssemblyReference.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\obj\Debug\Task 1 do whil loop.csproj.CoreCompileInputs.cache
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\obj\Debug\Task 1 do whil loop.exe
+C:\Users\BHANU KRISHNA\OneDrive\Documents\Desktop\Day 5 Task\Task 1 do whil loop\Task 1 do whil loop\obj\Debug\Task 1 do whil loop.pdb
